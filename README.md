@@ -18,15 +18,15 @@ V
 |  1st PCR cycle                                    Generating reads from both:                       
 V                                                   
           *                                                *                               R1:ATGATTGCGAAAATTGTGT                                               
-5' ATGATTGCGAAAATTGTGTTTAATG 3' OT > CT          5' ATGATTGCGAAAATTGTGTTTAATG 3' OT > CT   R2:CATTAAACACAATTTTCGC                                                
+5' ATGATTGCGAAAATTGTGTTTAATG 3' OT > CT          5' ATGATTGCGAAAATTGTGTTTAATG 3' OT        R2:CATTAAACACAATTTTCGC                                                
    |||||||||||||||||||||||||                        |||||||||||||||||||||||||                                                                
-3' TACTAACGCTTTTAACACAAATTAC 5' CTOT > GA        3' TACTAACGCTTTTAACACAAATTAC 5' CTOT > GA R1:CATTAAACACAATTTTCGC                                                           
+3' TACTAACGCTTTTAACACAAATTAC 5' CTOT > GA        3' TACTAACGCTTTTAACACAAATTAC 5' CTOT      R1:CATTAAACACAATTTTCGC                                                           
          *                                                *                                R2:ATGATTGCGAAAATTGTGT                                              
                                            --->                                                                                                
           *                                                *                               R1:ATAATTGCAAAAATTACAT                                      
-5' ATAATTGCAAAAATTACATTTAACA 3' CTOB > GA        5' ATAATTGCAAAAATTACATTTAACA 3' CTOB > GA R2:TGTTAAATGTAATTTTTGC
+5' ATAATTGCAAAAATTACATTTAACA 3' CTOB > GA        5' ATAATTGCAAAAATTACATTTAACA 3' CTOB      R2:TGTTAAATGTAATTTTTGC
    |||||||||||||||||||||||||                        |||||||||||||||||||||||||                                                                  
-3' TATTAACGTTTTTAATGTAAATTGT 5' OB > CT          3' TATTAACGTTTTTAATGTAAATTGT 5' OB > CT   R1:TGTTAAATGTAATTTTTGC                                                               
+3' TATTAACGTTTTTAATGTAAATTGT 5' OB > CT          3' TATTAACGTTTTTAATGTAAATTGT 5' OB        R1:TGTTAAATGTAATTTTTGC                                                               
          *                                                *                                R2:ATAATTGCAAAAATTACAT                                                  
 |
 |  Alignment
