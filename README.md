@@ -14,7 +14,6 @@ V
    |||||||||||||||||||||||||                                               
 3' TATTAACGTTTTTAATGTAAATTGT 5'                                                             
          *                                                                           
-
 |                                                                                 
 |  1st PCR cycle                                    Generating reads from both:                       
 V                                                   
@@ -47,5 +46,4 @@ V
                                          ref_GA: ATAATTACAAAAATTACATTTAACA                                                                                                          
     OB:       R1:TGTTAAATGTAATTTTTGC     rcR1_CT:      ACAAAAATTACATTTAACA                                                                                                              
               R2:ATAATTGCAAAAATTACAT     R2_GA:  ATAATTACAAAAATTACAT                                                                                                         
-
-'''
+```
